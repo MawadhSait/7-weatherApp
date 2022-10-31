@@ -1,2 +1,2 @@
 # 7-weatherApp
- using javascript and weather api
+ using javascript and OpenWeather api
